@@ -3,4 +3,4 @@
 a  
 B  
 
-[PIRAMIDI.pdf](https://leticlem.github.io/Piramidi/PIRAMIDI.pdf)
+[geometriapiramidi.pdf](https://leticlem.github.io/geometriapiramidi/.pdf)
