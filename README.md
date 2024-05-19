@@ -13,4 +13,6 @@ a.a. 2023/24
 6. Cos'è Phi?
 7. Conclusioni
 
-[geometriapiramidi.pdf](https://leticlem.github.io/Piramidi/geometriapiramidi.pdf)
+[geometriapiramidi.pdf](https://leticlem.github.io/Piramidi/geometriapiramidi.pdf)  
+
+Clemente Letizia e Tresca Nina
