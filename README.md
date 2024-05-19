@@ -4,7 +4,7 @@ Esame del corso di matematica per il design presso ISIA Urbino
 docente Andreas Gysin  
 a.a. 2023/24  
 
-## Argomenti  
+### Argomenti trattati  
 1. La matematica egizia
 2. Il Papiro di Mosca e il volume
 3. Il Papiro di Rhind e l'area del cerchio
